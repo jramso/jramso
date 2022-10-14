@@ -31,7 +31,7 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jramso&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://:mailto:contato.josue.rsou@gmail.com?Subject:Contatoviagithub&body=)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.josue.rsou@gmail.com?Subject:Contatoviagithub&body=)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JosueRSou)
   
  ![snake gif](https://github.com/jramso/jramso/blob/output/github-contribution-grid-snake.svg)
