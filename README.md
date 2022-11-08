@@ -30,11 +30,9 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=jramso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jramso&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-<div style="width:100%; align:center; display:flex;">
-  <p style="text-align:center;">
+<p align="center" style="text-align:center;">
     <img height="160em" style="img{left:150px;}" src="https://github-readme-streak-stats.herokuapp.com/?user=jramso&theme=blue-green&background=001100&ring=23DB8B&fire=21FF00&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"  />
-  </p>
-</div>
+</p>
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.josue.rsou@gmail.com?Subject:Contatoviagithub&body=)
