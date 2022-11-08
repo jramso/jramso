@@ -31,7 +31,7 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jramso&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div style="width:100%;">
-    <div style="width:25%;"></div>
+    <div style="width:25%;">a</div>
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=jramso&theme=blue-green&background=001100&ring=23DB8B&fire=21FF00&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"  />
 </div>
 
