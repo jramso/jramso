@@ -31,8 +31,10 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jramso&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <p align="center">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=jramso&theme=blue-green&background=001100&ring=23DB8B&fire=21FF00&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"  />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=jramso&theme=nightowl&background=191970&ring=23DB8B&fire=21FF00&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&date_format=Mj[,Y]"  />
 </p>
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jramso&theme=dark&border_radius=5&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.josue.rsou@gmail.com?Subject:Contatoviagithub&body=)
