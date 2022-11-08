@@ -32,7 +32,7 @@
 </div>
 <div style="width:100%; align:center; display:flex;">
   <p style="text-align:center;">
-    <img height="160em" style="display:flex;" src="https://github-readme-streak-stats.herokuapp.com/?user=jramso&theme=blue-green&background=001100&ring=23DB8B&fire=21FF00&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"  />
+    <img height="160em" style="left:150px;" src="https://github-readme-streak-stats.herokuapp.com/?user=jramso&theme=blue-green&background=001100&ring=23DB8B&fire=21FF00&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"  />
   </p>
 </div>
 
