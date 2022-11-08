@@ -1,5 +1,6 @@
-### Olá eu sou o Jramso - Josué <img src="pocoyo.gif" width="150px"></img>
+## Olá eu sou o Jramso - Josué
 
+<img src="pocoyo.gif" width="150px"></img>
 
 - 👨‍🎓📘 Atualmente Cursando: Bacharelado em Sistemas de Informação.
 - 🔭 Atualmente buscando estágio: Sistemas de Informação.
