@@ -29,7 +29,7 @@
 
 <div>
   <a href="">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=jramso&show_icons=true&theme=radical&bg_color=30,4B0082,191970&include_all_commits=true&count_private=true"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=jramso&show_icons=true&theme=radical&bg_color=30,4B0082,000000&include_all_commits=true&count_private=true"/>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jramso&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <p align="center">
