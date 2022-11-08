@@ -30,7 +30,7 @@
 <div>
   <a href="">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=jramso&show_icons=true&theme=radical&bg_color=30,4B0082,000000&include_all_commits=true&count_private=true"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jramso&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jramso&layout=compact&bg_color=30,000000,191970&langs_count=16&theme=tokyonight"/>
 </div>
 <p align="center">
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=jramso&theme=nightowl&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&date_format=Mj[,Y]"  />
