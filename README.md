@@ -14,7 +14,7 @@
 - 👨🏽 Hobbies Pessoais: Gosto de Jogar apesar de só conseguir focar em um jogo por um determinado tempo, Ler: Livros, Light Novels, Manhwas, me exercitar fisicamente me deixa mais leve pra pensar e me motiva, gosto de cozinhar (sobremesas, lanches e alguns almoços simples), ver vídeos sobre quase qualquer coisa mas de preferencia podcasts e reacts de músicas.
 - 👨🏽‍💻 Portifólio que será completado um dia: <a href="https://jramso.github.io">`JramsoDev`</a>.
 
-  <div id="icones">
+  <div align="center" id="icones">
       <img id="icon-dev" style="width: 40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img id="icon-dev" style="width: 40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
       <img id="icon-dev" style="width: 40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -36,8 +36,11 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jramso&theme=dark&border_radius=5&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.josue.rsou@gmail.com?Subject:Contatoviagithub&body=)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JosueRSou)
   
+</div>
+
  ![snake gif](https://github.com/jramso/jramso/blob/output/github-contribution-grid-snake.svg)
