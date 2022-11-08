@@ -31,7 +31,7 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jramso&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <p align="center">
-    <img height="160em" style="img{left:150px;}" src="https://github-readme-streak-stats.herokuapp.com/?user=jramso&theme=blue-green&background=001100&ring=23DB8B&fire=21FF00&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"  />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=jramso&theme=blue-green&background=001100&ring=23DB8B&fire=21FF00&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"  />
 </p>
 
 
