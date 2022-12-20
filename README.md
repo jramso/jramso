@@ -4,7 +4,7 @@
 <img src="pocoyo.gif" width="150px"></img>
 
 - 👨‍🎓📘 Atualmente Cursando: Bacharelado em Sistemas de Informação.
-- 🔭 Atualmente buscando estágio: Sistemas de Informação.
+- 🔭 Atualmente estagiando: BANDES - Banco de Desenvolvimento do Espírito Santo.
 - 👨‍🎓 Formado: Técnico em Informática.
 - 🌱 Estudando: `Java`,`Python` - Nível Intermediario no momento (classes,metodos,funçoes,conexão com banco de dados,POO).
 - 💬 Pergunte sobre: Orientação a objetos, Estrutura de Dados, Analise de sistemas, Projetos (Diagrmas de classes, Scrum, Kanban).
