@@ -6,7 +6,7 @@
 - 👨‍🎓📘 Atualmente Cursando: Bacharelado em Sistemas de Informação.
 - 🔭 Experiencia de Estágio: BANDES - Banco de Desenvolvimento do Espírito Santo.
 - 👨‍🎓 Formado: IFES - Técnico em Informática.
-- 🌱 Estudando: `Java`,`Python` - Nível Intermediario no momento (classes,metodos,funçoes,conexão com banco de dados,POO).
+- 🌱 Estudando: `Java`,`C#` - Nível Intermediario no momento (classes,metodos,funçoes,conexão com banco de dados,POO).
 - 💬 Pergunte sobre: Orientação a objetos, Estrutura de Dados, Analise de sistemas, Projetos (Diagrmas de classes, Scrum, Kanban).
 - 😄 Pronomes: Ele/dele
 - 👀 Interessado: `Programação Web` no geral , já tive contato antes mas continuo no nível iniciante é minha próxima area de foco (PHP, JS (TS), HTML, CSS, SCSS),
