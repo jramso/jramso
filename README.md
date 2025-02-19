@@ -3,6 +3,10 @@
 
 <img src="pocoyo.gif" width="150px"></img>
 
+## 🌍 Acesse o Portfólio Online  
+
+[Acessar o Portfólio 🚀](https://jramso.github.io/portfolio-jramso/#/)
+
 - 👨‍🎓📘 Atualmente Cursando: Bacharelado em Sistemas de Informação.
 - 🔭 Experiencia de Estágio: BANDES - Banco de Desenvolvimento do Espírito Santo.
 - 👨‍🎓 Formado: IFES - Técnico em Informática.
@@ -14,7 +18,7 @@
 - 📚🖥 Outros conhecimentos: Banco de dados: `Mysql` e `PostgreeSql`, Design e prototipação: Balsamiq, `Figma` , Edição de vídeo básica: Davinci Resolve.
 - 💫 Engraçado: tenho um nível razoavel de C mas não gosto muito da linguagem, também conheço um pouco de Assembly apesar de ser uso por necessidade/aprendizado.
 - 👨🏽 Hobbies Pessoais: Gosto de Jogar apesar de só conseguir focar em um jogo por um determinado tempo, Ler: Livros, Light Novels, Manhwas, me exercitar fisicamente me deixa mais leve pra pensar e me motiva, gosto de cozinhar (sobremesas, lanches e alguns almoços simples), ver vídeos sobre quase qualquer coisa mas de preferencia podcasts e reacts de músicas.
-- 👨🏽‍💻 Portifólio que será completado um dia: <a href="https://jramso.github.io">`JramsoDev`</a>.
+- 👨🏽‍💻 Portifólio que será completado um dia: <a href="https://jramso.github.io/portfolio-jramso/#/">`JramsoDev`</a>.
 
   <div align="center" id="icones">
       <img id="icon-dev" style="width: 40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
