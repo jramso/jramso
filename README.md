@@ -42,4 +42,4 @@
   
 </div>
 
- ![snake gif](https://github.com/jramso/jramso/blob/output/github-contribution-grid-snake.svg)
+![snake dark gif](https://raw.githubusercontent.com/jramso/jramso/main/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
