@@ -1,0 +1,30 @@
+permissions:
+  contents: write
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Roda todo dia à meia-noite
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do Repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: jramso
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit e Enviar Arquivos
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Atualização Snake"
+          add: "dist/*"
+          default_author: github_actions
