@@ -1,8 +1,6 @@
 ## Olá eu sou o Jramso - Josué <img src="pocoyo.png" width="80px"></img>
 
 
-<img src="pocoyo.gif" width="150px"></img>
-
 ## 🌍 Acesse o Portfólio Online  
 
 [Acessar o Portfólio 🚀](https://jramso.github.io/portfolio-jramso/#/)
@@ -31,20 +29,15 @@
       <img id="icon-dev" style="width: 40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />         
   </div>
 
-<div>
+<div align="center">
   <a href="">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=jramso&show_icons=true&theme=radical&bg_color=30,4B0082,000000&include_all_commits=true&count_private=true"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jramso&layout=compact&bg_color=30,000000,191970&langs_count=16&theme=tokyonight"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jramso&show_icons=true&theme=radical&bg_color=30,4B0082,000000&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jramso&layout=compact&bg_color=30,000000,191970&langs_count=16&theme=tokyonight&hide=Jupyter%20Notebook,Handlebars"/>
 </div>
-<p align="center">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=jramso&theme=nightowl&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&date_format=Mj[,Y]"  />
-</p>
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jramso&theme=dark&border_radius=5&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.josue.rsou@gmail.com?Subject:Contatoviagithub&body=)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JosueRSou)
   
 </div>
